@@ -95,7 +95,7 @@ def title_creator(sheet):
     return title
 
 root = tkinter.Tk()
-root.title('国益劳动事务代理有限公司')
+root.title('guoyi Co')
 root.geometry("515x150+500+300")
 root.resizable(False, False)
 path_1 = tkinter.StringVar()
